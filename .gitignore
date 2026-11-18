@@ -42,6 +42,8 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 
-# Mac Junk
+.vscode/
+__pycache__/
+
+# Mac junk
 .DS_Store
-testme
