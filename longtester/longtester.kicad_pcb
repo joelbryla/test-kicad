@@ -4291,7 +4291,7 @@
 	(footprint "CT:CT456H00B5TS08"
 		(layer "F.Cu")
 		(uuid "8a865f49-6a43-4101-be1e-605eed4e03ff")
-		(at 105.175 86.95)
+		(at 111.5 87.5)
 		(descr "TSSOP-8")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC1"
