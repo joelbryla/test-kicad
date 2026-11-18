@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Altium_TerminalLV1") (type "KiCad") (uri "${KIPRJMOD}/Local Library/Terminal LV1.pretty/") (options "") (descr ""))
+	(lib (name "Altium_Beacon_MC") (type "KiCad") (uri "${KIPRJMOD}/Local Library/Beacon_MC_REVC.pretty/") (options "") (descr ""))
+	(lib (name "Altium_SamacSys") (type "KiCad") (uri "${KIPRJMOD}/Local Library/SamacSys.pretty/") (options "") (descr ""))
+)

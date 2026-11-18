@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=CT456-H00B5-TS08
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=1.4
+Released=2024-10-25 07:49:06
+Downloaded=2026-11-11 12:24:26
+3D=Y

@@ -485,7 +485,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "EasyEDA",
+      "Snapeda",
+      "Shared Library",
+      "Local Library/Local Library"
+    ]
   },
   "meta": {
     "filename": "lesscrazyproject.kicad_pro",
@@ -648,7 +653,7 @@
         "uuid": "97f05613-0ee9-43cc-8f9d-dfbedac9c082"
       }
     ],
-    "used_designators": "J1,R1",
+    "used_designators": "IC1-2,R1,J1-2,U1",
     "variants": []
   },
   "sheets": [

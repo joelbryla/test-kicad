@@ -1,0 +1,18 @@
+.CT456-H00B5-TS08 :1 ;Current Sensor 1 Channel Magnetoresistive Bidirectional 8-TSSOP (0.173", 4.40mm Width)
+CT456H00B5TS08
+*STM IC
+*NGS
+*PLB 1="OUT" 2="VCC" 3="NC_1" 4="NC_2" 5="NC_3" 6="NC_4" 7="GND" 8="TEST"
+*MXP 8
+*DFN CT456-H00B5-TS08
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (CT456-H00B5-TS08)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.allegromicro.com/-/media/files/datasheets/ct456-datasheet.pdf?sc_lang=en)
+~!Height (1.2mm)
+~!3D_Model (CT456-H00B5-TS08)
+CT456-H00B5-TS08
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

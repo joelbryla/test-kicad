@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "shared-fp-lib-table") (type "Table") (uri "${KIPRJMOD}/../Shared Library/shared-fp-lib-table") (options "") (descr ""))
+)

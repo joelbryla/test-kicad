@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CT456-H00B5-TS08
+D Current Sensor 1 Channel Magnetoresistive Bidirectional 8-TSSOP (0.173", 4.40mm Width)
+K
+F https://www.allegromicro.com/-/media/files/datasheets/ct456-datasheet.pdf?sc_lang=en
+$ENDCMP
+#
+#End Doc Library
