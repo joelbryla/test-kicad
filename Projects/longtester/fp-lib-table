@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "longtester") (type "KiCad") (uri "${KIPRJMOD}/longtester.pretty") (options "") (descr ""))
+	(lib (name "Shared Library Table") (type "Table") (uri "${KIPRJMOD}/../../Shared Library/shared-fp-lib-table") (options "") (descr ""))
+)
