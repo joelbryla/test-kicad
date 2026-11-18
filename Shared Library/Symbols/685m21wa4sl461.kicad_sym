@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Terminal LV1:685M21WA4SL461"
+		(property "Footprint" "Shared Library:685M21WA4SL461"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

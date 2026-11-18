@@ -1,6 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "lesscrazyproject") (type "KiCad") (uri "${KIPRJMOD}/lesscrazyproject.pretty") (options "") (descr ""))
-	(lib (name "Shared Library") (type "KiCad") (uri "${KIPRJMOD}/../Shared Library/Footprints") (options "") (descr ""))
-	(lib (name "shared-fp-lib-table") (type "Table") (uri "/Users/joel/git/test-kicad/Shared Library/shared-fp-lib-table") (options "") (descr ""))
-)

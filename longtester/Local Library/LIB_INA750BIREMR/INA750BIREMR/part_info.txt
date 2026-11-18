@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=INA750BIREMR
-PartCategory=Integrated Circuit
-PackageCategory=Other
-PinCount=14
-Version=1.3
-Released=2025-01-20 16:48:05
-Downloaded=2026-11-11 12:45:55
-3D=Y
