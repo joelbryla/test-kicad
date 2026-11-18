@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Local Library") (type "KiCad") (uri "${KIPRJMOD}") (options "") (descr ""))
+	(lib (name "new_project") (type "KiCad") (uri "${KIPRJMOD}/new_project.kicad_sym") (options "") (descr "") (hidden))
+	(lib (name "Shared Library Table") (type "Table") (uri "${KIPRJMOD}/../../Shared Library/shared-sym-lib-table") (options "") (descr ""))
+)

@@ -1,10 +1,5 @@
 (sym_lib_table
 	(version 7)
 	(lib (name "Shared Library") (type "KiCad") (uri "${KIPRJMOD}/../../Shared Library/Symbols") (options "") (descr ""))
-	(lib (name "Sweaky1") (type "KiCad") (uri "${KIPRJMOD}/../Sweaky1/") (options "") (descr ""))
-	(lib (name "BEACON_LV4") (type "KiCad") (uri "${KIPRJMOD}/../BEACON_LV4/") (options "") (descr ""))
-	(lib (name "BEACON_LV3") (type "KiCad") (uri "${KIPRJMOD}/../BEACON_LV3/") (options "") (descr ""))
-	(lib (name "Sweaky") (type "KiCad") (uri "${KIPRJMOD}/../Sweaky/") (options "") (descr ""))
-	(lib (name "another_project") (type "KiCad") (uri "${KIPRJMOD}/../another_project/") (options "") (descr ""))
-	(lib (name "testme") (type "KiCad") (uri "${KIPRJMOD}/../testme/") (options "") (descr ""))
+	(lib (name "new_project") (type "KiCad") (uri "${KIPRJMOD}/../new_project/") (options "") (descr ""))
 )
